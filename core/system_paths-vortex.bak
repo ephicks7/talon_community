@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: vortex
+-
+user: /home/elizabeth
+desktop: /home/elizabeth/Desktop
+desk: /home/elizabeth/Desktop
+documents: /home/elizabeth/Documents
+docks: /home/elizabeth/Documents
+downloads: /home/elizabeth/Downloads
+music: /home/elizabeth/Music
+pictures: /home/elizabeth/Pictures
+videos: /home/elizabeth/Videos
+talon home: /home/elizabeth/.talon
+talon recordings: /home/elizabeth/.talon/recordings
+talon user: /home/elizabeth/.talon/user
+home: /home/elizabeth
